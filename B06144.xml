@@ -1,0 +1,215 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To the right honourable, the knights, citizens, and burgesses of the Parliament of England, assembled in the House of Commons at Westminster. The humble petition of the tenants and freeholders of the mannor of Gillingham in the county of Dorset.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1641</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 20 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B06144</idno>
+            <idno type="STC">Wing T1647</idno>
+            <idno type="STC">ESTC R185239</idno>
+            <idno type="EEBO-CITATION">52612452</idno>
+            <idno type="OCLC">ocm 52612452</idno>
+            <idno type="VID">179672</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B06144)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 179672)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2796:10)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>To the right honourable, the knights, citizens, and burgesses of the Parliament of England, assembled in the House of Commons at Westminster. The humble petition of the tenants and freeholders of the mannor of Gillingham in the county of Dorset.</title>
+               </titleStmt>
+               <extent>3 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1641]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint suggested by Wing.</note>
+                  <note>Reproduction of the original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Manorial extents --  England --  Dorset --  Early works to 1800.</term>
+               <term>Gillingham (Dorset, England) --  History --  17th century --  Sources.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-05</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-05</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="petition">
+            <pb n="1" facs="tcp:179672:1" rendition="simple:additions"/>
+            <head>To the Right Honourable, the Knights, Citi<g ref="char:EOLhyphen"/>zens, and Burgeſſes of the Parliament of <hi>England,</hi> aſſembled in the Houſe of <hi>COMMONS</hi> at <hi>WESTMINSTER.</hi>
+            </head>
+            <div type="petition_proper">
+               <head>The humble Petition of the Tenants and Freeholders of the Mannor of <hi>Gillingham</hi> in the County of <hi>Dorſet.</hi>
+               </head>
+               <opener>HVMBLY SHEWETH;</opener>
+               <p>THat at a Parliament held in <hi>February</hi> in the fourth year of his now Majeſties Raigne, a Petition was then exhibited to the Grand Committee for Grievances, by the then Tenants of the ſaid Mannor of <hi>Gillingham</hi> aforeſaid, ſubſcribing their names to the particular Grievances then thereby complained of, ariſing upon the diſafforeſtation of the late Forreſt of <hi>Gillingham</hi> on the behalf of themſelves, and of 400. others, which never compounded or were queſtioned, who had right of Common within the ſame late Forreſt, containing a complaint againſt a commiſſion then lately awarded out of his M<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>jeſties Court of Exchequer, to Sir <hi>Iames Fullerton,</hi> and others, for the encloſing of the ſaid late Forreſt, and a place there called the Bayliff<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s walk, &amp; againſt the proceedings of the ſaid Commiſſioners, in executing of the ſaid Commiſſion; and likewiſe againſt a Decree made againſt the ſaid Peti<g ref="char:EOLhyphen"/>tioners in the ſaid Court of Exchequer, concerning the ſaid Forreſt and Bayliff<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s walk. By which Commiſſion and proceedings thereupo<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, the ſaid Petitioners, and many hundreds more of the Tenants and Inhabitants, and Commoners there, were much damp<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ifi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d and oppreſ<g ref="char:EOLhyphen"/>ſed, as was alleadged by the ſaid Petition; And therefore the ſaid Petitioners humbly prayed, that the ſaid Commiſſion and ptocee<g ref="char:EOLhyphen"/>dings might be examined; which ſaid Petition was read, and ordered to be retayned, and a day appointed for hearing the ſaid Cauſe. As by the ſaid Petition remaining in this Honourable Houſe, and by the ſubſcriptions, and Copy of the Order of this Honourable Houſe thereup<g ref="char:EOLhyphen"/>on made ready to be produced, may more fully appear; but by reaſon of the ſudden diſſolution of the ſame Parliament, the cauſe was not heard; ſince which time, divers other wrongs and oppreſſions have beene againſt the ſaid Tenants by the Agents and Inſtruments of the R<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ght Honourable the Earl of <hi>Elgin,</hi> the preſent Fee-Farmer of the ſaid Mannor and Forreſt; all which are comprehended in the Articles annexed.</p>
+               <p>Humbly therefore pray, that you will be pleaſed to revive the Cauſe upon the firſt Petition, and to hear and relieve your Petitioners com<g ref="char:EOLhyphen"/>plaint, as well in thoſe as in theſe other Grievances ſince happening, as the juſtice of the Cauſe ſhall require.</p>
+               <closer>And your Petitioners ſaall ever pray, &amp;c.</closer>
+            </div>
+            <div type="case">
+               <head>THE CASE.</head>
+               <p>THE Mannor of <hi>Gillingham</hi> is ancient D<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>meaſme, and belongeth to the Crown of <hi>England,</hi> and hath alwayes heretofore uſed to be parcell of the Queenes Jointure, and never out of the hands of the King, Queen, of Prince for the time being, untill the ſame was lately granted in Fee-Farme to the Right Honourable the Earl of <hi>Elgin</hi> parcell, of which Mannor is a great Waſt or Common, cal<g ref="char:EOLhyphen"/>led the Bayliffes Walk.</p>
+               <p>That within the ſaid Mannor and Bayliff<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s Walk, lyeth the late Forreſt of <hi>Gillingham,</hi> compaſſed almoſt round by the ſaid Man<g ref="char:EOLhyphen"/>nor and Bayliff<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s Walk, within which Mannor are many Freeholds, and above 200. Copies of Inheritance at Fine, and heriot certaine, the which Fines and heriots, Rents and Profet, of Courts, have been paid to the Queenes uſe, and ordered by the Court of the Mannor.</p>
+               <p>That there is likewiſe another Mannor conſiſting of ſeveral Copy holders of Inheritance, called the Forreſt Mannor, at fine, and heriots cer<g ref="char:EOLhyphen"/>taine; the which Fines, Herots, Rents, and Profits of Courts, have been paid to the Wardens of the Forreſt his uſe, and ordered by the Forreſt Court of that Mannor.</p>
+               <p>That all the ſaid Tenants of both the ſaid Mannors, and other Inhabitants, have time out of mind had and uſed to have Common of Pa<g ref="char:EOLhyphen"/>ſture within the ſaid Forreſt, for their Horſe Beaſts, and other Beaſts, levant and couchant upon their reſpective tenements all the year, at all times of the yeare, as to their reſpective tenements belonging, and Common of Paſture within the ſaid Bayliffes Walke, for their Horſe Beaſts, or other Beaſt and ſheepe levant and couchant upon their reſpective tenements, all the yeare, at all times of the yeare, as to their re<g ref="char:EOLhyphen"/>ſpective tenements likewiſe pertaining.</p>
+               <p>That the ſaid Fine, certain, and cuſtomes, haue been by ſeverall Decrees, the one in the Ezchequer, the other in Queen Annes Court, and by an Act of Parliament <hi>7. Iacob. Reg.</hi> confirmed, and the Charter exemplified, which coſt the tenants above 800. pounds.</p>
+               <p>That in <hi>Aug. 1. Car. Reg.</hi> a Commiſſion iſſued forth of the Exchequer to Sir <hi>Iames Fullerton</hi> Knight (being Commiſſioner and Patentee, for about 40. yeares of the ſaid Forreſt, at a ſmall Rent) and to others, whereof the ſaid Sir <hi>Iames Fullerton</hi> was of the <hi>Quorum,</hi> to diſaffor<g ref="char:EOLhyphen"/>reſt and improve the ſaid <hi>Forreſt,</hi> for the advancement of his Majeſties Revenues, with Articles of Inſtruction annexed, for compounding with the Commoners and Officers by allotments out of the ſaid <hi>Forreſt,</hi> in ſatisfaction of their Common and Offices there; and for reliefe of the poore, and for ſetting out convenient high-wayes through the ſaid <hi>Forreſt,</hi> as by the Records thereof in his Majeſties Court of Exche<g ref="char:EOLhyphen"/>quer; amongſt other things may at large appeare.</p>
+            </div>
+            <div type="grievance">
+               <head>1. <hi>GRIEVANCE.</hi>
+               </head>
+               <p>THat 22. <hi>Jacob.Reg.</hi> a Map of the ſaid Forreſt was taken by one Mr. <hi>Ienkins</hi> and his men, who brought with him a perambulation there<g ref="char:EOLhyphen"/>of, as he pretended, wherein was included all the Bayliffes Walk, and the Houſes, Gardens, and Incloſures of about two hundred Tenants and Cottage.</p>
+               <p n="2">2. That for doing that ſervice, the ſaid Mr. <hi>Jenkins</hi> required the then Bayliffe and Hayward of the ſaid Mannor to attend his men, and to informe them of all the places named in the ſaid <hi>Perambulation,</hi> and the houſes and grounds of the Tenants: All which was pretended to be within the ſaid <hi>Forreſt;</hi> And the ſaid Mr. <hi>Jenkins</hi> after the taking thereof, alleadged upon his oath, that he was aſſiſted therein with di<g ref="char:EOLhyphen"/>vers ancient witneſſes, albeit the ſaid Map was taken by his men only, and himſelf very ſeldome with them.</p>
+               <pb n="2" facs="tcp:179672:2"/>
+               <p n="3">3. That 23. <hi>Aug.</hi> 22. <hi>Iacob.</hi> a Court of Survey was holden at <hi>Gillingham,</hi> at which Court a Jury was ſworne to preſent, according to Ar<g ref="char:EOLhyphen"/>ticles then delivered them, whereof one of them was for the bounds of the Forreſt (none of the Jury then perfectly knowing the bounds between the ſaid Forreſt and the ſaid <hi>Bailiffs</hi> walke, which had been uſed time out of mind, And having no evidence produced therefore, they did not diſtinguiſh the ſaid bounds in their preſentment, but did preſent only the aforeſaid mapp, which the ſaid Mr. <hi>Ienkins</hi> produced unto them upon his Oath according to the perambulation he brought with him; by which meanes the <hi>Bailiffes</hi> walke was taken to be Forreſt.</p>
+               <p n="4">4 That the Commiſſioners cauſed the Tenants one by one to be drawn into a little cloſe private Chamber in an Inne in <hi>Gillingham,</hi> where the then <hi>Bailiffe</hi> kept the doore, and there compounded with ſome of them for their Commons in the ſaid Forreſt, promiſing, to allot to e<g ref="char:EOLhyphen"/>very of them ratably after the rate of ten Acres of Forreſt-ground for every 100. Acres of their ſeveral, and ſo after that proportion, and to every ancient Cottage and Acre, and in that manner got the ſubſcriptions of 73. ſeverall mens names, of which nineteene did ſubſcribe for ſuch as were not preſent, and ſome of them knew not of the ſaid Commiſſion, and ſome of them after diſaſtented to the ſaid ſubſcription, &amp; ſome of them ſo ſubſcribing were the Commiſſioners themſelves.</p>
+               <p n="5">5. That the <hi>King</hi> by the Agreement was to incloſe the out-bounds of his part round, which is not performed.</p>
+               <p n="6">6. That the alotments hereupon made, were layd forth defective, and not purſuant, the ſaid Commiſſion and agreement and his <hi>Majeſties</hi> directions, and layd inconveniently in reſpect of wayes to the prejudice of five Market Townes within 6. miles of the ſaid Forreſt. And that by His <hi>Majeſties</hi> directions and the Commſſioners appointment, the ſaid Mr. <hi>Ienkins</hi> was to lay out the alotments and wayes by the appro<g ref="char:EOLhyphen"/>bation of 12. of the Tenants and Commoners; but he cauſed his men to lay them out as he pleaſed, and being queſtioned for it by one of the Commſſioners, and ſome of the 12. he anſwered, it is ſo and it muſt be, and it ſhall be ſo; for I will have it ſo.</p>
+               <p n="7">7. That all the alotments for all the ſaid Tenants and poore being about 800. Families amount not unto above 600. Acres or therea<g ref="char:EOLhyphen"/>bouts, which are all taken out of the Bailiffes walkes, (except about 50. Acres) the remainder being about 2600. Acres, worth 1300 <abbr>l.</abbr> 
+                  <hi>per Annum,</hi> (whereof about 200. Acres or more is taken out of the ſaid <hi>Bailiffes</hi> walke) is now enjoyed by the <hi>E.</hi> of <hi>Elgin,</hi> and Mr. <hi>Kirke.</hi>
+               </p>
+               <p n="8">8. That thereupon at the inſtance of Sir <hi>James Fullerton</hi> (who was the <hi>Kings</hi> Commiſſioner in his own cauſe) the intended improve<g ref="char:EOLhyphen"/>ment being for himſelfe, an information was exhibited in the Exchequer Chamber (in the name of the <hi>Kings Majeſty</hi>) by the then Atturney Gen. againſt ſome of the Tenants which had ſubſcribed as aforeſaid, and againſt ſome others that had refuſed, and upon pretence that t<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e ſaid Compoſition was made with the Major part of the Commoners, and that the <hi>Bailiffes</hi> walk was within, &amp; parcell of the ſaid F<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rreſt &amp; anſwers made by ſuch as were then queſtioned, divers orders were obtained there for the ſtrengthning of the ſaid Alotments, and a decree was had againſt them, and all other the Commoners though no parties; whereupon the ſaid Sir <hi>Iames Fullerton</hi> and Mr. <hi>Kirke</hi> incloſed the reſidue for His <hi>Majeſty</hi> as was pretended, but kept it for their own uſes.</p>
+               <p n="9">9. That the high-wayes by thoſe incloſures are become impaſſable, and laid upon the generall Charge of the Pariſhioners for repara<g ref="char:EOLhyphen"/>tions; whereas by Agreement the ſame were to be repaired by the <hi>Kings</hi> Farmer, and the Countrey to be diſcharged, and the way<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s to go through the incloſed grounds of His <hi>Majeſti<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s</hi> part without reſtraint or limitation.</p>
+               <p n="10">10. That divers high-wayes within the ſaid late Forreſt, by the ſaid incloſures are diverted above halfe a mile about, and ſome wholly ſtopped up to the great annoyance of the Countrey, for that they have ſpoiled their horſes and wares, and have been inforced to give their money to go through the incloſed grounds.</p>
+               <p n="11">11. That the ſaid Sir <hi>Iames Fullerton</hi> did aſſigne, deviſe, or leave the remainder of his Tearme in the ſaid Forreſt, to the ſaid Earle as his Excecuter in truſt for the Lady <hi>Bruce</hi> his relict, and for the ſaid Earle, or one of them, and the ſaid Earle hath ſince procured to him and his heyres, both the ſaid Mannors, and Forreſt, and Pa<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ke likewiſe from His <hi>Majeſty</hi> in fee farme for a ſmall fine a<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d rent, <hi>per annum;</hi> for the premiſes being about 140.<abbr>l.</abbr> 16.<abbr>s.</abbr> 8.<abbr>d.</abbr> whereof about 48 <abbr>l.</abbr> is the ancient rent of both manners, in reſpect of the true valew thereof be<g ref="char:EOLhyphen"/>ing worth neere 2000.<abbr>l.</abbr> 
+                  <hi>per annum</hi> in good times: And albeit the wood and Timber in the ſaid late Forreſt at the time of the diſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>fforeſta<g ref="char:EOLhyphen"/>tion were worth 8000.<abbr>l.</abbr> at the leaſt, which was to be ſold for His <hi>Majeſties</hi> beſt profit reſerving a great part of it for mainta<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ning houſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s, bridges, Fences, and high-wayes in the Forreſt, Parke, and mannour, yet it being for the moſt part cut down and ſold, and almoſt all the poſts, pales, and railes of the Parke, Fences, being part of that Timber, are taken up and ſold by Mr. <hi>Bronker;</hi> for which many hundreds of the beſt timber Trees in the Forreſt and Parke were ſelled, out of which His <hi>Majeſty</hi> hath had very little profit but great loſſe.</p>
+               <p n="12">12. That the ſaid Earle hath by <hi>Tko. Bronker</hi> Gentleman, and others his Agents and Inſtruments er deavoured of late to advance his purchaſe of the premiſes by requiring and taking more beryets of the Tenants there then by the Cuſtome are due, to the great oppreſſion, of the ſaid Tenants your Petitioners, and hath preferred a Bill in the Exchequ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r, endeavouring to make good ſuch unjuſt and unconſciona<g ref="char:EOLhyphen"/>ble demands concerning them and other things, and hath likewiſe taken away the yearely fees belonging to the Reeue of the ſaid Forreſt and Forreſt mannour, being yearely by Cuſtome, to be one of the ſaid Tenants of the ſaid Forreſt-mannour, amounting in valew to 3.<abbr>l.</abbr> 
+                  <hi>per annum</hi> and upwards, and given no allowance for the ſame, His <hi>Majeſties</hi> directions therein not being performed.</p>
+               <p n="13">13. That the Court Rolls may be put from time to time into the common Cheſt, appointed for that purpoſe, where all the antient Court Rolls of the ſaid mannour are, and have been ever by cuſtome uſed to be put for neere 500. yeares paſt, as in an ind<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>fferent and ſafe hand be<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ween the Lord and Tenants; but that there are the rolls of 13. yeares laſt paſt kept in Mr. <hi>Bronker,</hi> or the Deputy Stewards ha<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ds, and not put into that Cheſt to the hazard of the Tenan<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s Eſtates, and palpable breach of their Cuſtomes.</p>
+               <p n="14">14. That of late a new conſtat of Alotments, upon the ſaid diſafforeſtation hath been made by the private direction of the ſaid <hi>Thomas Bronker,</hi> and one <hi>Edward Coward</hi> Agents under the ſaid Earle, with great alterations from the former, without the conſent of the ſaid Te<g ref="char:EOLhyphen"/>nants or other legall authority to warrant the ſame; whereby the Tenants and poore are much wronged.</p>
+               <p n="15">15. That <hi>Charles Wills, Morgan Cave,</hi> and <hi>Edm. Coward,</hi> did ſubſcribe and accept of 110. Acres of the Forreſt for 110 poore men, named in 2. ſeverall notes delivered to the Commiſſioners, and to be aſſured to them and others, as feoffees in truſt, to remaine to the uſe of the poore for ever, a great part whereof is altered and taken away.</p>
+               <p n="16">16. That the ſaid <hi>Charles Wills, Morgan Cave,</hi> and <hi>Edm. Coward,</hi> did ſubſcribe and accept of 50. Acres of ground of the Forreſt for 48. of the poorer ſort of Tenants named in a note preſented to the Commiſſioners, the which note was left in the hand of <hi>Edm. Coward,</hi> that he ſhould take the hands of ſuch as were named in the ſaid note, and to returne the note to <hi>London</hi> to the Commiſſioners with ſpeed, which was not performed; but many yeares after <hi>Coward</hi> of himſelfe, without the conſent of the others, put out about 20. of ſuch as were named in the ſaid note, and put in others in their places; but they were ſuch as muſt ſell, whereby he was rewarded of the buyer and ſeller, and the moſt of them do not know where their Acres do lye; for that it was incloſed in the poores and other Tenants grounds long before.</p>
+               <p n="17">17. That after the ground was layd out for the poore and other Tenants Mr. <hi>Thomas Branker, Richard Perue, William Sheapheard, Peter Greene, Ben. Sanger, Io. Wilkins,</hi> and <hi>Mary Greene,</hi> did incloſe about 40. Acres of the beſt of the ground of the poores, and poorer ſort of Tenants to their own uſe: By meanes whereof the ground which is left for the poore, is halfe a mile in length, in nature of a Lane, and 30. wayes over it, and no allowance of ground for wayes, and is now by the ſaid new conſtat ſet out in 9. ſeverall places, by which meanes neere 200. tenants and poore receive much wrong.</p>
+               <p n="18">18<g ref="char:punc">▪</g> That the ſaid Earl hath now lately cauſed to be taken out an Inquiſition and attachment againſt the Inhabitants of five townes, and Pariſhes neer the ſaid Forreſt, to ſatisfie him above 1000.<abbr>l.</abbr> for his pretended dammages, to the great diſturbance and oppreſſion of the Inhabitants neer the ſaid Forreſt.</p>
+               <pb n="3" facs="tcp:179672:3"/>
+               <p n="19">19<g ref="char:punc">▪</g> That the ſaid Earl doth of late take upon him to diſpoſe in Court of the Copyhold Lands of Inheritance of the heires of ſuch te<g ref="char:EOLhyphen"/>nants as dye, their heires being underage, and let out the ſame at under values by way of Leaſe for many yeares together, with unreaſonable and unjuſt allowances, to the manifeſt wrong and oppreſſion of ſuch Infants, which is a great incroachment on the liberty and property of the ſaid tenants, and an attempt to draw the tenants heires, being <hi>minors,</hi> into a greater ſlavery and ſervitude, then a tenure in <hi>Capite,</hi> where<g ref="char:EOLhyphen"/>as the Ordinance concerning the <hi>Court of Wards</hi> aymts (as the Petitioners humbly conceive) at the Liberty of the Subject, even in caſes of <hi>Capite,</hi> or Knights ſervice tenure.</p>
+               <p n="20">20. That one <hi>Woolridg</hi> being Bayliffe of the Mannor of <hi>Gillingham,</hi> and employed in all the buſineſſe concerning the diſafforeſtation of the ſaid Forreſt, was upon a Ryot of a breach of the Incloſures of the ſaid Forreſt, accuſed in Star-chamber for an Abettor by ſome who were great enemies to him for his ſervice done about the diſafforeſtation, and was fined 200. <abbr>l.</abbr> which fine, with others the ſaid Sir <hi>James Fullerton</hi> had granted to him from his Majeſty, with power to diſcharge any that were fined, as he pleaſed; And being truly informed, he did freely forgive the ſaid fine to the ſaid <hi>Woolridg.</hi> But after his death, the ſaid Earl cauſed the ſaid <hi>Woolridg</hi> to be impriſoned for the ſame Fine, and the ſaid Mr. <hi>Bronker</hi> hath unjuſtly levyed of the goods and eſtate of the ſaid <hi>Woolridg,</hi> for the ſaid Fine, above 260.<abbr>l.</abbr> beſides it coſt (the ſaid) <hi>Wolridg</hi> 40.<abbr>l.</abbr> to bring it to a hearing.</p>
+               <p n="21">21. That <hi>Wolridg</hi> brought a ſuit againſt the ſaid Earle, and <hi>Bronker,</hi> and others in the Exchequer chamber, hoping to have beene relie<g ref="char:EOLhyphen"/>ved, and have had reſtitution of his goods being ſo unjuſtly taken; but when it was heard, and the depoſitions of witneſſes read, the Earle ſit<g ref="char:EOLhyphen"/>ting in Court, a Letter was delivered, and two or three lines read of it; whereupon Baron <hi>Trevor</hi> ſtood up; and did take the letter, and did look in it, and ſaid, <hi>I will believe this Letter, before any of their Oathes</hi> (meaning the witneſſes ſworn in that Cauſe) and that he did ſee no cauſe in Equity, why any reſtitution ſhould be made of the ſaid Goods to the ſaid <hi>Wolridg,</hi> and thereupon diſmiſſed the Cauſe out of the ſaid Court.</p>
+               <p n="22">22 That it was agreed between the Commiſſioners and Tenants that ſubſcribed, that the alotments of the Tenants ſhould bee aſſu<g ref="char:EOLhyphen"/>red unto them in the name of <hi>Cuſtomary Lands</hi> without Rent or Fine, which is not performed.</p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
